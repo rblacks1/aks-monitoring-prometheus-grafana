@@ -8,3 +8,11 @@ AKS Cluster
    │
    └── Grafana
           └── Visualizes cluster performance
+          
+## Technologies
+
+- Azure Kubernetes Service (AKS)
+- Prometheus
+- Grafana
+- Helm
+- Kubernetes
